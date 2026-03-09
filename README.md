@@ -22,4 +22,3 @@ A: See the Contributing section above.
 ## Future Plans
 - Support for more programming languages
 - Improved formatting algorithms
-
